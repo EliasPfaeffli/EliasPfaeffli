@@ -4,7 +4,12 @@
 
 </div>
 
+<div align="center">
+
 Desarrollador Web Frontend · Buenos Aires, Argentina · 28 años
+
+</div>
+
 
 ---
 ## 🚀 Sobre mi
