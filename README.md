@@ -15,7 +15,7 @@ Me encanta transformar ideas en código y estoy constantemente buscando nuevos d
 
 ---
 ### Herramientas que utilizo 
-[HTML, SVG 1.1, MathML 3.0, HTML, SVG 1.1, MathML 3.0, ITS 2.0, HTML, SVG 1.1, MathML 3.0, RDFa Lite 1.1, HTML 4.01 Strict, URL / XHTML 1.0 Strict, URL, HTML 4.01 Transitional, URL / XHTML 1.0 Transitional, URL, HTML 4.01 Frameset, URL / XHTML 1.0 Frameset, URL, XHTML, SVG 1.1, MathML 3.0, XHTML, SVG 1.1, MathML 3.0, RDFa Lite 1.1, XHTML 1.0 Strict, URL, Ruby, SVG 1.1, MathML 3.0, SVG 1.1, URL, XHTML, MathML 3.0]
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)Transitional, URL / XHTML 1.0 Transitional, URL, HTML 4.01 Frameset, URL / XHTML 1.0 Frameset, URL, XHTML, SVG 1.1, MathML 3.0, XHTML, SVG 1.1, MathML 3.0, RDFa Lite 1.1, XHTML 1.0 Strict, URL, Ruby, SVG 1.1, MathML 3.0, SVG 1.1, URL, XHTML, MathML 3.0]
 
 
 
