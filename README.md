@@ -1,3 +1,3 @@
-  ## Elias Pfaeffli - Zelaya 
----
-Desarrolador Web
+<div align = "center" >
+  #*Elías Pfaeffli - Zelaya*
+</div>
