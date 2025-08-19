@@ -15,7 +15,8 @@ Me encanta transformar ideas en código y estoy constantemente buscando nuevos d
 
 ---
 ### Herramientas que utilizo 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/w3c-validation/:parser
+)
 
 
 
