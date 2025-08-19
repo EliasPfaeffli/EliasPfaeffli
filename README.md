@@ -15,7 +15,7 @@ Me encanta transformar ideas en código y estoy constantemente buscando nuevos d
 
 ---
 ### Herramientas que utilizo 
-🟧 **HTML**
+**HTML** · **CSS3** · **JavaScript** · **Code** · **Netlify** · **Vercel**
 
 
 
