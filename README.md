@@ -1,3 +1,3 @@
 <div align = "center" >
-  # **Elías Pfaeffli - Zelaya**
+  #Elías Pfaeffli - Zelaya
 </div>
