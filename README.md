@@ -15,7 +15,7 @@ Me encanta transformar ideas en código y estoy constantemente buscando nuevos d
 
 ---
 ### Herramientas que utilizo 
-**HTML** · **CSS3** · **JavaScript** · **Code** · **Netlify** · **Vercel**
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 
