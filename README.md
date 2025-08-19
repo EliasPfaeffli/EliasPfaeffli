@@ -7,7 +7,7 @@
 Desarrollador Web Frontend · Buenos Aires, Argentina · 28 años
 
 ---
-🚀 ## Sobre mi
+## 🚀 Sobre mi
 
 Soy un apasionado por la programación con bases sólidas en el desarrollo frontend, dominando **HTML, CSS y JavaScript**. Actualmente, estoy ampliando mis conocimientos y formalizando mi educación mediante la **Tecnicatura en Programación en la UTN**.
 
