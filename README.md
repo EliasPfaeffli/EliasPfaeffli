@@ -14,10 +14,7 @@ Soy un apasionado por la programación con bases sólidas en el desarrollo front
 Me encanta transformar ideas en código y estoy constantemente buscando nuevos desafíos que me permitan seguir aprendiendo y crecer como desarrollador.
 ---
 ### Herramientas que utilizo 
-HTML5
-CSS
-JAVASCRIPT
-VS CODE
+html5
 
 
 
